@@ -155,4 +155,20 @@ Tracked in [openpaw-docs/roadmap.md](https://github.com/ayvalabs/openpaw-docs/bl
 
 MIT, in every repo. © 2026 aeropriest / Ayva Labs.
 
-<div align="center"><sub>Made with 🐾 — building in public, one commit at a time.</sub></div>
+---
+
+<div align="center">
+
+### 🐾 Follow OpenPaw
+
+[![X](https://img.shields.io/badge/X-@OpenPaw-000000?logo=x&logoColor=white)](https://x.com/OpenPaw)
+[![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/openpaw)
+[![Telegram](https://img.shields.io/badge/Telegram-join-26A5E4?logo=telegram&logoColor=white)](https://t.me/OpenPaw)
+[![YouTube](https://img.shields.io/badge/YouTube-subscribe-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@openpaw)
+[![Website](https://img.shields.io/badge/Website-pawme.ayvalabs.com-14b8a6?logo=googlechrome&logoColor=white)](https://pawme.ayvalabs.com)
+
+**[X](https://x.com/OpenPaw)** · **[Discord](https://discord.gg/openpaw)** · **[Telegram](https://t.me/OpenPaw)** · **[YouTube](https://youtube.com/@openpaw)** · **[Website](https://pawme.ayvalabs.com)**
+
+<sub>Made with 🐾 — building in public, one commit at a time.</sub>
+
+</div>
