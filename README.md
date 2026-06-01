@@ -11,8 +11,22 @@ We build the **whole stack in the open** — firmware, hardware, app, and ML.
 **This repo is the front door.** It explains every part of the project and how to
 get started. The code lives in focused sibling repos (linked below).
 
+<!-- project / contributor badges (auto-update from the repo) -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-14b8a6.svg)](LICENSE)
-[![Build in public](https://img.shields.io/badge/building-in%20public-ff69b4.svg)](#-follow--contribute)
+[![Stars](https://img.shields.io/github/stars/ayvalabs/openpaw?style=flat&logo=github)](https://github.com/ayvalabs/openpaw/stargazers)
+[![Forks](https://img.shields.io/github/forks/ayvalabs/openpaw?style=flat&logo=github)](https://github.com/ayvalabs/openpaw/network/members)
+[![Contributors](https://img.shields.io/github/contributors/ayvalabs/openpaw)](https://github.com/ayvalabs/openpaw/graphs/contributors)
+[![Open issues](https://img.shields.io/github/issues/ayvalabs/openpaw)](https://github.com/ayvalabs/openpaw/issues)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-follow--contribute)
+[![Last commit](https://img.shields.io/github/last-commit/ayvalabs/openpaw)](https://github.com/ayvalabs/openpaw/commits/main)
+
+<!-- social / connect badges -->
+[![Website](https://img.shields.io/badge/Website-pawme.ayvalabs.com-14b8a6?logo=googlechrome&logoColor=white)](https://pawme.ayvalabs.com)
+[![X](https://img.shields.io/badge/X-@OpenPaw-000000?logo=x&logoColor=white)](https://x.com/OpenPaw)
+[![Discord](https://img.shields.io/badge/Discord-coming%20soon-5865F2?logo=discord&logoColor=white)](#-follow--contribute)
+[![Telegram](https://img.shields.io/badge/Telegram-coming%20soon-26A5E4?logo=telegram&logoColor=white)](#-follow--contribute)
+[![Instagram](https://img.shields.io/badge/Instagram-coming%20soon-E4405F?logo=instagram&logoColor=white)](#-follow--contribute)
+[![YouTube](https://img.shields.io/badge/YouTube-coming%20soon-FF0000?logo=youtube&logoColor=white)](#-follow--contribute)
 
 </div>
 
@@ -134,7 +148,7 @@ Tracked in [openpaw-docs/roadmap.md](https://github.com/ayvalabs/openpaw-docs/bl
 ## 🤝 Follow & contribute
 
 - ⭐ **Star** the repos — it genuinely helps us reach more makers.
-- 🐦 **X:** [@OpenPaw](https://x.com) *(handle rename pending)* · 💬 **Discord** *(invite coming)* · 📩 **Waitlist** via the website.
+- 🐦 **X:** [@OpenPaw](https://x.com/OpenPaw) · 💬 **Discord** *(invite coming)* · 📩 **Waitlist** via the website.
 - 🛠️ **Contribute:** open an issue or PR in the relevant repo. Good first issues will
   be labelled. Hardware and firmware testers especially welcome.
 
