@@ -20,13 +20,12 @@ get started. The code lives in focused sibling repos (linked below).
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-follow--contribute)
 [![Last commit](https://img.shields.io/github/last-commit/ayvalabs/openpaw)](https://github.com/ayvalabs/openpaw/commits/main)
 
-<!-- social / connect badges -->
+<!-- social / connect badges (OpenPaw = dev/maker track) -->
 [![Website](https://img.shields.io/badge/Website-pawme.ayvalabs.com-14b8a6?logo=googlechrome&logoColor=white)](https://pawme.ayvalabs.com)
 [![X](https://img.shields.io/badge/X-@OpenPaw-000000?logo=x&logoColor=white)](https://x.com/OpenPaw)
-[![Discord](https://img.shields.io/badge/Discord-coming%20soon-5865F2?logo=discord&logoColor=white)](#-follow--contribute)
-[![Telegram](https://img.shields.io/badge/Telegram-coming%20soon-26A5E4?logo=telegram&logoColor=white)](#-follow--contribute)
-[![Instagram](https://img.shields.io/badge/Instagram-coming%20soon-E4405F?logo=instagram&logoColor=white)](#-follow--contribute)
-[![YouTube](https://img.shields.io/badge/YouTube-coming%20soon-FF0000?logo=youtube&logoColor=white)](#-follow--contribute)
+[![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/openpaw)
+[![Telegram](https://img.shields.io/badge/Telegram-join-26A5E4?logo=telegram&logoColor=white)](https://t.me/OpenPaw)
+[![YouTube](https://img.shields.io/badge/YouTube-subscribe-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@openpaw)
 
 </div>
 
@@ -148,7 +147,7 @@ Tracked in [openpaw-docs/roadmap.md](https://github.com/ayvalabs/openpaw-docs/bl
 ## 🤝 Follow & contribute
 
 - ⭐ **Star** the repos — it genuinely helps us reach more makers.
-- 🐦 **X:** [@OpenPaw](https://x.com/OpenPaw) · 💬 **Discord** *(invite coming)* · 📩 **Waitlist** via the website.
+- 🐦 **X:** [@OpenPaw](https://x.com/OpenPaw) · 💬 **[Discord](https://discord.gg/openpaw)** · ✈️ **[Telegram](https://t.me/OpenPaw)** · 📩 **Waitlist** via the website.
 - 🛠️ **Contribute:** open an issue or PR in the relevant repo. Good first issues will
   be labelled. Hardware and firmware testers especially welcome.
 
