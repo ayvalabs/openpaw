@@ -20,22 +20,16 @@ An affordable AI-powered companion robot designed to keep pets engaged, monitore
 
 <br>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-14b8a6.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/ayvalabs/openpaw?style=flat\&logo=github)](https://github.com/ayvalabs/openpaw)
-[![Forks](https://img.shields.io/github/forks/ayvalabs/openpaw?style=flat\&logo=github)](https://github.com/ayvalabs/openpaw)
-[![Contributors](https://img.shields.io/github/contributors/ayvalabs/openpaw)](https://github.com/ayvalabs/openpaw/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/ayvalabs/openpaw)](https://github.com/ayvalabs/openpaw/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/ayvalabs/openpaw)](https://github.com/ayvalabs/openpaw)
+[![Website](https://img.shields.io/badge/Website-pawme.ayvalabs.com-14b8a6?logo=googlechrome&logoColor=white)](https://pawme.ayvalabs.com)
+[![X](https://img.shields.io/badge/X-@OpenPaw-000000?logo=x&logoColor=white)](https://x.com/OpenPaw)
+[![Reddit](https://img.shields.io/badge/Reddit-u/OpenPawAI-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/OpenPawAI/)
+[![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/openpaw)
+[![Telegram](https://img.shields.io/badge/Telegram-join-26A5E4?logo=telegram&logoColor=white)](https://t.me/OpenPaw)
+[![YouTube](https://img.shields.io/badge/YouTube-subscribe-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@openpaw)
 
 <br>
 
 ### 🚀 Building In Public • 🤖 Robotics • 🧠 AI • 🐾 Pets
-
-[🌐 Website](https://pawme.ayvalabs.com) •
-[🐦 X](https://x.com/OpenPaw) •
-[📺 YouTube](https://youtube.com/@openpaw) •
-[💬 Discord](https://discord.gg/openpaw) •
-[📢 Telegram](https://t.me/OpenPaw)
 
 </div>
 
@@ -368,18 +362,19 @@ See the LICENSE file for details.
 
 <div align="center">
 
-# 🐾 Follow OpenPaw
+<div align="center">
 
-[🌐 Website](https://pawme.ayvalabs.com)
+# 🌎 Join The Community
 
-[🐦 X](https://x.com/OpenPaw)
+Stay updated with every milestone, prototype, firmware update, and development log.
 
-[📺 YouTube](https://youtube.com/@openpaw)
-
-[💬 Discord](https://discord.gg/openpaw)
-
-[📢 Telegram](https://t.me/OpenPaw)
-
+| Platform | Link |
+|-----------|------|
+| Reddit | https://www.reddit.com/user/OpenPawAI/ |
+| X | https://x.com/OpenPaw |
+| YouTube | https://youtube.com/@openpaw |
+| Discord | https://discord.gg/openpaw |
+| Telegram | https://t.me/OpenPaw |
 ---
 
 ### Building the future of pet companionship, one commit at a time.
@@ -387,3 +382,4 @@ See the LICENSE file for details.
 ❤️ Built in Public by OpenPaw
 
 </div>
+---
