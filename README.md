@@ -168,39 +168,6 @@ And we're building everything completely open source.
 | openpaw-ml        | AI Models & Wellness Signals           |
 | openpaw-marketing | Build-In-Public Automation             |
 
----
-
-# 📚 Development Timeline
-
-### Day 1
-
-Repository ecosystem established
-
-### Day 2
-
-OTA firmware update system completed
-
-### Day 3
-
-Distance sensor integrated
-
-### Day 4
-
-Camera module operational
-
-### Day 5
-
-Firmware architecture improvements
-
-### Day 6
-
-Audio subsystem development
-
-### Day 7+
-
-Building toward the first complete OpenPaw prototype
-
----
 
 # 🗺️ Product Roadmap
 
