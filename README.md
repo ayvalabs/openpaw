@@ -16,7 +16,7 @@ An affordable AI-powered companion robot designed to keep pets engaged, monitore
 
 ### 🎥 Watch OpenPaw In Action
 
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge\&logo=youtube)](YOUR_VIDEO_LINK)
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge\&logo=youtube)](https://youtu.be/kn2AgR_2DU8?si=dEk0vnEUKTMzefOG)
 
 <br>
 
@@ -113,21 +113,9 @@ And we're building everything completely open source.
 
 # 🎥 Demo Videos
 
-## Distance Sensor Demo
+## Distance Sensor, Camera and OTA
 
-📹 Watch Demo: YOUR_VIDEO_LINK
-
-## OTA Firmware Update
-
-📹 Coming Soon
-
-## Camera Streaming
-
-📹 Coming Soon
-
-## OpenPaw Development Logs
-
-📹 Coming Soon
+📹 Watch Demo: coming soon
 
 ---
 
