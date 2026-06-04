@@ -109,7 +109,7 @@ And we're building everything completely open source.
 
 ## Distance Sensor, Camera and OTA
 
-📹 Watch Demo: coming soon
+📹 Watch Demo: https://www.reddit.com/u/OpenPawAI/s/4BdC17TnOp
 
 ---
 
