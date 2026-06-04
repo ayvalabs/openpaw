@@ -168,6 +168,20 @@ And we're building everything completely open source.
 | openpaw-ml        | AI Models & Wellness Signals           |
 | openpaw-marketing | Build-In-Public Automation             |
 
+---
+
+## 🧭 Start here
+
+| You want to… | Go to |
+|---|---|
+| Understand the vision & architecture | [openpaw-docs](https://github.com/ayvalabs/openpaw-docs) |
+| Hack on the robot's brain | [openpaw-firmware](https://github.com/ayvalabs/openpaw-firmware) |
+| Build/modify the hardware | [openpaw-hardware](https://github.com/ayvalabs/openpaw-hardware) |
+| Work on the website / waitlist | [openpaw-website](https://github.com/ayvalabs/openpaw-website) |
+| Explore the pet-health ML | [openpaw-ml](https://github.com/ayvalabs/openpaw-ml) |
+| Help us post the build-in-public devlog | [openpaw-marketing](https://github.com/ayvalabs/openpaw-marketing) |
+
+---
 
 # 🗺️ Product Roadmap
 
